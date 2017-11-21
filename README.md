@@ -1,0 +1,5 @@
+# How to complete a Kaggle Competition with Machine Learning
+
+After a successful first Facebook Live Coding session, DataCamp's very own Hugo Bowne-Anderson is back in front of the camera! This time, Hugo will take you from zero to one with machine learning to make several submissions to Kaggle's (in)famous [Titanic machine learning competition](https://www.kaggle.com/c/titanic). The goal will be to build an algorithm that predicts whether any given passenger on the Titanic survived or not, given data on them such as the fare they paid, where they embarked and their age. You'll do so using the Python programming language, Jupyter notebooks and state-of-the-art packages such as `pandas`, `scikit-learn` and `seaborn`. Alongside Hugo, you'll dive into this rich dataset and build your chops in exploratory data analysis, data munging and cleaning, and machine learning. No previous experience with machine learning necessary. Join us for this live, interactive code along.
+
+Join Hugo live on Friday 12/01 at 10:30am ET on Facebook!
