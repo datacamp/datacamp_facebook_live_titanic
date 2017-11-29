@@ -2,8 +2,11 @@
 
 **If you're planning to code along, make sure to clone, download, or re-pull this repository on the morning of Friday 12/01. All edits will be completed by end of day ET Thursday 11/31.**
 
+<p align="center">
+<img src="img/nytimes.jpg" width="600">
+</p>
 
-<img src="img/nytimes.jpg" width="500">
+
 
 
 # How to complete a Kaggle Competition with Machine Learning
