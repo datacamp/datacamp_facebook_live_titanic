@@ -67,7 +67,7 @@ source activate fb_live_titanic
 On Windows, execute
 
 ```
-activate fb_live_nlp
+activate fb_live_titanic
 ```
 
 
