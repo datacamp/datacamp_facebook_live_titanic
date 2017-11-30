@@ -22,6 +22,7 @@ Join Hugo live on Friday 12/01 at 10:30am ET on Facebook!
 Not a lot. It would help if you knew
 
 * programming fundamentals and the basics of the Python programming language (e.g., variables, for loops);
+* a bit about `pandas` and DataFrames;
 * a bit about Jupyter Notebooks;
 * your way around the terminal/shell.
 
