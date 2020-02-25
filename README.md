@@ -1,3 +1,10 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datacamp/datacamp_facebook_live_titanic/master)
+
+To write code & run the Jupyter notebooks immediately without needing to install anything on your computer, click on the "launch binder" badge above. For more on Binder, go [here](https://mybinder.readthedocs.io/en/latest/index.html).
+
+
+
+
 # IMPORTANT
 
 **If you're planning to code along, make sure to clone, download, or re-pull this repository on the morning of Friday 12/01. All edits will be completed by end of day ET Thursday 11/31.**
