@@ -1,3 +1,4 @@
+name: fb_live_titanic
 channels:
 - conda-forge
 - defaults
